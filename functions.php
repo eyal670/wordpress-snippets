@@ -1,5 +1,6 @@
 <?php
 //all media attachment pages redirect to... , good for SEO
+	//Ref: http://www.wpexplorer.com/disable-image-page
 function myprefix_redirect_attachment_page() {
 	if ( is_attachment() ) {
 		global $post;
