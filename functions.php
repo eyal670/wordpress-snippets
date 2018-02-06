@@ -1,3 +1,4 @@
+<?php
 //all media attachment pages redirect to... , good for SEO
 function myprefix_redirect_attachment_page() {
 	if ( is_attachment() ) {
