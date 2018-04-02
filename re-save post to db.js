@@ -1,4 +1,4 @@
-/* This script auto update post on enter edit post page - it's only as a mean to refrash the database in case of ACF changes or similar that requier you to save the post again without any changes
+/* This script auto update post on enter edit post page - it's only as a means to refresh the database in case of ACF changes or similar that require you to save the post again without any changes
 *  Add it to exec with CJS chrome extention or similar - https://chrome.google.com/webstore/detail/custom-javascript-for-web/ddbjnfjiigjmcpcpkmhogomapikjbjdk
 */
 
