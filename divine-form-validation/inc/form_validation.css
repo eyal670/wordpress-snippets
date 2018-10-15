@@ -1,0 +1,23 @@
+.counterGraph {
+    /* border-top: 3px solid red; */
+    border-top-width: 3px;
+    border-top-style: solid;
+    width: 0%;
+    transition: width 1s ease, border-color 2s ease;
+}
+.counter-wrapper {
+    width: 100%;
+    display: none;
+}
+/* .counterGraph.badCount {
+    border-color: red;
+}
+.counterGraph.midCount {
+    border-color: yellow;
+}
+.counterGraph.goodCount {
+    border-color: limegreen;
+}
+.counterGraph.perfectCount {
+    border-color: green;
+} */
